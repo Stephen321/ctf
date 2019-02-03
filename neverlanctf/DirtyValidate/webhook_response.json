@@ -1,0 +1,18 @@
+webhooks/get_usernames.php
+
+{"usernames":[
+  "AdamsFamily","Mr. Clean","Dr. Whom","JimmyOneShoe"
+  ]
+}
+
+webhooks/get_password.php?user=AdamsFamily
+34VHJ5IGEgZGlmZmVyZW50IHVzZXI=
+
+webhooks/get_password.php?user=Mr.%20Clean%0A
+
+
+webhooks/get_password.php?user=Dr.%20Whom
+
+
+webhooks/get_password.php?user=JimmyOneShoe
+19V3JvbmcgdXNlcg==
